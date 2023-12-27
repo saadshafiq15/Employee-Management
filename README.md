@@ -47,7 +47,3 @@ The Employee Management System provides the following menu options:
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to create a pull request.
-
-## License
-
-This Employee Management System is open-source and available under the [MIT License](LICENSE).
